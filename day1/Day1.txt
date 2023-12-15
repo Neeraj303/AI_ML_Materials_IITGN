@@ -1,0 +1,13 @@
+Sobester, András, Alexander Forrester, and Andy Keane. Engineering design via surrogate modelling: a practical guide. John Wiley & Sons, 2008, ISBN: 9780470060681.
+
+Krishna Rajan; Informatics for Materials Science and Engineering. Butterworth-Heinemann, 2013, ISBN 978-0-12-394399-6.
+
+Rasmussen, C. E., & Williams, C. K. I. Gaussian processes for machine learning. MIT Press, 2005, ISBN: 9780262182539.
+
+Python Data Science Handbook: Essential Tools for Working with Data by Jake VanderPlas
+
+Mueller, Tim, Aaron Gilad Kusne, and Rampi Ramprasad. Machine learning in materials science: Recent progress and emerging applications. Reviews in computational chemistry 29 (2016): 186-273.
+
+Andrew White, Deep Learning for Molecules and Materials, https://whitead.github.io/dmol-book/intro.html
+
+Ian J. Goodfellow, Yoshua Bengio and Aaron Courville. Deep Learning, MIT Press, 2016, ISBN-13: 978-0262035613
